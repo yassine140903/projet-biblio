@@ -24,7 +24,7 @@
 
             </div>
             <div class="form-right">
-                <img src="img/img1.jpg" alt="Mountains" class="form-image">
+                <img src="img/login.jpg" alt="Mountains" class="form-image">
             </div>
         </div>
     </div>

@@ -49,7 +49,7 @@ section{
 .tab {
     background: none;
     border: none;
-    color:  black;
+    color:  rgb(110, 93, 99);
     padding: 10px;
     cursor: pointer;
     font-size: 1.2em;
@@ -57,17 +57,17 @@ section{
 }
 
 .tab.active {
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid rgb(110, 93, 99);
 }
 
 .form h2 {
-    color:  black ;
+    color:  rgb(110, 93, 99) ;
     margin-bottom: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .form p{
-    color: black ;
+    color: rgb(110, 93, 99) ;
     margin-bottom: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -76,7 +76,7 @@ section{
     width: 100%;
     padding: 10px;
     margin: 10px 0;
-    border: 1px solid black;
+    border: 1px solid rgb(110, 93, 99);
     border-radius: 5px;
 }
 
@@ -89,7 +89,7 @@ section{
     align-items: center;
     font-size: 0.9em;
     margin: 10px 0;
-    color: black;
+    color: rgb(110, 93, 99);
 }
 
 .remember input {
@@ -98,7 +98,7 @@ section{
 }
 
 .submit-btn {
-    background-color:black;
+    background-color:rgb(110, 93, 99);
     border: none;
     color: white;
     padding: 10px;
